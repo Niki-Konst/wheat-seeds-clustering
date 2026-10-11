@@ -9,6 +9,10 @@ It was completed as part of the Machine Learning with Python Erasmus+ course.
 
 The Seeds dataset contains 210 wheat kernels from three varieties, described by seven geometric measurements: area, perimeter, compactness, kernel length, kernel width, asymmetry, and groove length.
 
+## Tools
+
+Python, NumPy, pandas, Matplotlib, scikit-learn, Google Colab.
+
 ## Methodology
 
 The analysis includes:
@@ -44,10 +48,6 @@ This project helped me understand how clustering can reveal patterns in data wit
 Although I expected choosing the number of clusters to be the most challenging part, I actually found writing and understanding the Python code more difficult, especially when trying to connect the different steps of the analysis. Working through the notebook step by step helped me better understand how these methods are applied in practice.
 
 With more time, I would like to improve my Python programming skills and become more confident in implementing machine learning methods independently. I would also like to explore other clustering algorithms and compare their results.
-
-## Tools
-
-Python, NumPy, pandas, Matplotlib, scikit-learn, Google Colab.
 
 ## Project Notebook
 
