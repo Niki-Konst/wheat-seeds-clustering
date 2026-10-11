@@ -35,9 +35,11 @@ The choice of K is not definitive because the clustering diagnostics disagreed. 
 
 ## Reflection
 
-This project helped me understand how clustering can reveal structure without relying on predefined labels. One challenge was choosing the number of clusters when the Elbow Method and Silhouette Score gave different indications.
+This project helped me understand how clustering can reveal patterns in data without using predefined labels. One thing that worked well was that K-Means recovered much of the real variety structure, as shown by the purity score of 0.919.
 
-With more time, I would explore additional clustering methods and compare their results.
+Although I expected choosing the number of clusters to be the most challenging part, I actually found writing and understanding the Python code more difficult, especially when trying to connect the different steps of the analysis. Working through the notebook step by step helped me better understand how these methods are applied in practice.
+
+With more time, I would like to improve my Python programming skills and become more confident in implementing machine learning methods independently. I would also like to explore other clustering algorithms and compare their results.
 
 ## Tools
 
