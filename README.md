@@ -29,7 +29,7 @@ The analysis includes:
 
 ## Results
 
-The Elbow Method suggested three clusters, while the Silhouette Score was highest for two clusters. I selected K=3 based on the elbow and the approximate structure observed in the initial PCA plot.
+The Elbow Method showed a clear decrease in inertia up to K=3, followed by a more gradual improvement for higher values of K. On the other hand, the Silhouette Score was highest for K=2 (0.466), but the score for K=3 (0.401) was not much lower. Considering the more noticeable elbow around K=3, the relatively small numerical difference between the two silhouette scores and the three approximate groups observed in the initial PCA plot, I decided to choose K=3.
 
 The resulting purity score was 0.919, with 193 out of 210 seeds belonging to the dominant variety in their assigned cluster. Variety 2 was separated most clearly, while varieties 1 and 3 showed more overlap.
 
