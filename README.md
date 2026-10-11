@@ -51,8 +51,6 @@ With more time, I would like to improve my Python programming skills and become 
 
 ## Project Notebook
 
-## Project Notebook
-
 The completed Jupyter notebook is available in this repository, including the code, visualizations, results, and written interpretations.
 
 An HTML version is also provided, allowing the full analysis and its outputs to be viewed without running the notebook.
