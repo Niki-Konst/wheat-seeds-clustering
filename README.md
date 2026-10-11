@@ -31,7 +31,11 @@ The resulting purity score was 0.919, with 193 out of 210 seeds belonging to the
 
 ## Limitations
 
-The choice of K is not definitive because the clustering diagnostics disagreed. Also, although the PCA visualization preserves approximately 89% of the total variance, it cannot fully represent the clustering performed using all seven scaled features.
+Although the results show a good agreement with the actual wheat varieties, the clusters do not match them perfectly.
+
+The choice of K is not completely certain because the Elbow Method and Silhouette Score suggested different values. Also, the PCA plot shows only two dimensions, explaining approximately 89% of the variance, while K-Means used all seven scaled features.
+
+Therefore, the PCA visualization cannot show the full structure of the clustering.
 
 ## Reflection
 
